@@ -1,0 +1,2 @@
+git rm -cacehd textfile.txt : removes the cached version on git but does not remove file
+git rm -f textfile.txt: removes the file
