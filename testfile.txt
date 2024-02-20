@@ -1,2 +1,9 @@
 git rm -cacehd textfile.txt : removes the cached version on git but does not remove file
 git rm -f textfile.txt: removes the file
+git branch: lists all existing branches
+branch: concept similar to Exhilation branches 
+for running analyses: use branches to run different version in parallel
+git branch experimental: creates new branch called experimental
+git checkout experimental experimental: switches to the branch called experimental
+# the active branch will have a green star in front of it when running git branch
+git commit -m "": commits the file, add commit messages in between the quotation marks
