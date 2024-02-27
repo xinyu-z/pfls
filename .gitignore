@@ -1,0 +1,6 @@
+thisfile.txt
+#files listed here will be ignored by git and not pushed to the repoitory
+#to add a whole folder, just type the name of the folder
+# "audio" ignores all files called audio
+# "/audio/" ignores the file names audio at the root of the repository, but not other folders called audio
+# "*.wav" ignores all wav files
