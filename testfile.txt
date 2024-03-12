@@ -7,3 +7,4 @@ git branch experimental: creates new branch called experimental
 git checkout experimental experimental: switches to the branch called experimental
 # the active branch will have a green star in front of it when running git branch
 git commit -m "": commits the file, add commit messages in between the quotation marks
+
